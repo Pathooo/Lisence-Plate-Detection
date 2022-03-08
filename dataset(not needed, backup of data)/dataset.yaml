@@ -1,9 +1,0 @@
-# path to images relative to root
-train: ../dataset/images/train/
-val : ../dataset/images/val/
-
-# number of classes
-nc: 1
-
-# name of classes
-names: ['lisence_plate']
